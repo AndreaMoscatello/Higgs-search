@@ -1,6 +1,10 @@
 """
 Code by Andrea Moscatello
 Github: https://github.com/AndreaMoscatello/Higgs-search
+
+The dataset is provided and described in: arXiv:1402.4735v2
+Two different NN models are provided: the model proposed in the above mentioned paper ("paper") and the model I have designed and tuned ("mine").
+
 Created: January 2021
 Last update: January 2025
 """
